@@ -1,0 +1,5 @@
+D:/QTPro/RegistrationProj2025/RegistrationProj/build/Desktop_Qt_5_15_18_MSVC2019_64bit-Debug/CMakeFiles/RegistrationProj.dir
+D:/QTPro/RegistrationProj2025/RegistrationProj/build/Desktop_Qt_5_15_18_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/QTPro/RegistrationProj2025/RegistrationProj/build/Desktop_Qt_5_15_18_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QTPro/RegistrationProj2025/RegistrationProj/build/Desktop_Qt_5_15_18_MSVC2019_64bit-Debug/CMakeFiles/RegistrationProj_autogen_timestamp_deps.dir
+D:/QTPro/RegistrationProj2025/RegistrationProj/build/Desktop_Qt_5_15_18_MSVC2019_64bit-Debug/CMakeFiles/RegistrationProj_autogen.dir

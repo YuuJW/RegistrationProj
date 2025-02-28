@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1214</width>
+    <height>867</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>466</y>
+      <width>1161</width>
+      <height>361</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="1">
+      <widget class="QGroupBox" name="infraGroupBox_3">
+       <property name="minimumSize">
+        <size>
+         <width>340</width>
+         <height>325</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>340</width>
+         <height>325</height>
+        </size>
+       </property>
+       <property name="title">
+        <string>鱼眼矫正结果</string>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_6">
+        <item row="0" column="0">
+         <widget class="QWidget" name="infraWidget_3" native="true">
+          <property name="minimumSize">
+           <size>
+            <width>320</width>
+            <height>240</height>
+           </size>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_14">
+           <property name="spacing">
+            <number>0</number>
+           </property>
+           <property name="leftMargin">
+            <number>0</number>
+           </property>
+           <property name="topMargin">
+            <number>0</number>
+           </property>
+           <property name="rightMargin">
+            <number>0</number>
+           </property>
+           <property name="bottomMargin">
+            <number>0</number>
+           </property>
+           <item>
+            <layout class="QVBoxLayout" name="infraVideoLayOut_3"/>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QGroupBox" name="infraGroupBox_5">
+       <property name="minimumSize">
+        <size>
+         <width>340</width>
+         <height>325</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>340</width>
+         <height>325</height>
+        </size>
+       </property>
+       <property name="title">
+        <string>图像配准结果</string>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_10">
+        <item row="0" column="0">
+         <widget class="QWidget" name="infraWidget_8" native="true">
+          <property name="minimumSize">
+           <size>
+            <width>320</width>
+            <height>240</height>
+           </size>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_19">
+           <property name="spacing">
+            <number>0</number>
+           </property>
+           <property name="leftMargin">
+            <number>0</number>
+           </property>
+           <property name="topMargin">
+            <number>0</number>
+           </property>
+           <property name="rightMargin">
+            <number>0</number>
+           </property>
+           <property name="bottomMargin">
+            <number>0</number>
+           </property>
+           <item>
+            <layout class="QVBoxLayout" name="infraVideoLayOut_8"/>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QGroupBox" name="infraGroupBox_4">
+       <property name="minimumSize">
+        <size>
+         <width>340</width>
+         <height>325</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>340</width>
+         <height>325</height>
+        </size>
+       </property>
+       <property name="title">
+        <string>目标检测结果</string>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_7">
+        <item row="0" column="0">
+         <widget class="QWidget" name="infraWidget_5" native="true">
+          <property name="minimumSize">
+           <size>
+            <width>320</width>
+            <height>240</height>
+           </size>
+          </property>
+          <layout class="QVBoxLayout" name="verticalLayout_16">
+           <property name="spacing">
+            <number>0</number>
+           </property>
+           <property name="leftMargin">
+            <number>0</number>
+           </property>
+           <property name="topMargin">
+            <number>0</number>
+           </property>
+           <property name="rightMargin">
+            <number>0</number>
+           </property>
+           <property name="bottomMargin">
+            <number>0</number>
+           </property>
+           <item>
+            <layout class="QVBoxLayout" name="infraVideoLayOut_5"/>
+           </item>
+          </layout>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>50</x>
+      <y>440</y>
+      <width>71</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Agency FB</family>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>结果区</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>40</y>
+      <width>71</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Agency FB</family>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>源图像区</string>
+    </property>
+   </widget>
+   <widget class="QGroupBox" name="rgbGroupBox">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>80</y>
+      <width>340</width>
+      <height>325</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>340</width>
+      <height>325</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>340</width>
+      <height>325</height>
+     </size>
+    </property>
+    <property name="title">
+     <string>左侧图像</string>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_3">
+     <item row="0" column="0">
+      <widget class="QWidget" name="rgbWidget" native="true">
+       <property name="minimumSize">
+        <size>
+         <width>320</width>
+         <height>240</height>
+        </size>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_8">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <property name="leftMargin">
+         <number>0</number>
+        </property>
+        <property name="topMargin">
+         <number>0</number>
+        </property>
+        <property name="rightMargin">
+         <number>0</number>
+        </property>
+        <property name="bottomMargin">
+         <number>0</number>
+        </property>
+        <item>
+         <layout class="QVBoxLayout" name="rgbVideoLayOut"/>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QGroupBox" name="infraGroupBox">
+    <property name="geometry">
+     <rect>
+      <x>380</x>
+      <y>80</y>
+      <width>340</width>
+      <height>325</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>340</width>
+      <height>325</height>
+     </size>
+    </property>
+    <property name="maximumSize">
+     <size>
+      <width>340</width>
+      <height>325</height>
+     </size>
+    </property>
+    <property name="title">
+     <string>右侧图像</string>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_4">
+     <item row="0" column="0">
+      <widget class="QWidget" name="infraWidget" native="true">
+       <property name="minimumSize">
+        <size>
+         <width>320</width>
+         <height>240</height>
+        </size>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout_10">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <property name="leftMargin">
+         <number>0</number>
+        </property>
+        <property name="topMargin">
+         <number>0</number>
+        </property>
+        <property name="rightMargin">
+         <number>0</number>
+        </property>
+        <property name="bottomMargin">
+         <number>0</number>
+        </property>
+        <item>
+         <layout class="QVBoxLayout" name="infraVideoLayOut"/>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>790</x>
+      <y>70</y>
+      <width>342</width>
+      <height>327</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_2">
+     <item row="0" column="0">
+      <widget class="QGroupBox" name="optionGroupBox">
+       <property name="minimumSize">
+        <size>
+         <width>340</width>
+         <height>325</height>
+        </size>
+       </property>
+       <property name="maximumSize">
+        <size>
+         <width>340</width>
+         <height>325</height>
+        </size>
+       </property>
+       <property name="title">
+        <string>操作区</string>
+       </property>
+       <layout class="QGridLayout" name="gridLayout_8">
+        <item row="1" column="0" colspan="2">
+         <widget class="QPushButton" name="loadImgBtn">
+          <property name="text">
+           <string>导入图像</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="3">
+         <widget class="QPushButton" name="DetectionBtn">
+          <property name="text">
+           <string>目标检测</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="1" colspan="2">
+         <widget class="QPushButton" name="FishBtn">
+          <property name="text">
+           <string>鱼眼矫正</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0" colspan="4">
+         <layout class="QVBoxLayout" name="verticalLayout">
+          <item>
+           <layout class="QHBoxLayout" name="horizontalLayout_4">
+            <item>
+             <widget class="QLabel" name="label">
+              <property name="text">
+               <string>左侧图像地址</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="rgbImgFilePathEdit"/>
+            </item>
+            <item>
+             <widget class="QToolButton" name="rgbImgFilePathTBtn">
+              <property name="text">
+               <string>...</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+          <item>
+           <layout class="QHBoxLayout" name="horizontalLayout_5">
+            <item>
+             <widget class="QLabel" name="label_2">
+              <property name="text">
+               <string>右侧图像地址</string>
+              </property>
+             </widget>
+            </item>
+            <item>
+             <widget class="QLineEdit" name="infraImgFilePathEdit"/>
+            </item>
+            <item>
+             <widget class="QToolButton" name="infraImgFilePathTBtn">
+              <property name="text">
+               <string>...</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </item>
+         </layout>
+        </item>
+        <item row="1" column="2" colspan="2">
+         <widget class="QPushButton" name="saveImgBtn">
+          <property name="text">
+           <string>保存图像</string>
+          </property>
+         </widget>
+        </item>
+        <item row="2" column="0">
+         <widget class="QPushButton" name="startRegBtn">
+          <property name="text">
+           <string>开始配准</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1214</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

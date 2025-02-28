@@ -1,0 +1,22 @@
+# ninja log v5
+14	127	7613264164752612	RegistrationProj_autogen/timestamp	58a8182e40150273
+14	127	7613264164752612	RegistrationProj_autogen/mocs_compilation.cpp	58a8182e40150273
+355	2318	7613166452878404	CMakeFiles/RegistrationProj.dir/RegistrationProj_autogen/mocs_compilation.cpp.obj	d0e0f56edb2e135e
+14	127	7613264164752612	D:/QTPro/RegistrationProj2025/RegistrationProj/build/Desktop_Qt_5_15_18_MSVC2019_64bit-Debug/RegistrationProj_autogen/timestamp	58a8182e40150273
+14	127	7613264164752612	D:/QTPro/RegistrationProj2025/RegistrationProj/build/Desktop_Qt_5_15_18_MSVC2019_64bit-Debug/RegistrationProj_autogen/mocs_compilation.cpp	58a8182e40150273
+123	566	7608018699726476	CMakeFiles/RegistrationProj.dir/qrc_Resource.cpp.obj	854bfd14bfa3f837
+397	441	7607729595880191	qrc_Resource.cpp	51971d7111b90229
+359	2319	7613166452898467	CMakeFiles/RegistrationProj.dir/main.cpp.obj	3c20e4f2b65f8b10
+397	441	7607729595880191	D:/QTPro/RegistrationProj2025/RegistrationProj/build/Desktop_Qt_5_15_18_MSVC2019_64bit-Debug/qrc_Resource.cpp	51971d7111b90229
+139	2001	7613266178008197	CMakeFiles/RegistrationProj.dir/mainwindow.cpp.obj	320a9d794bcfc28f
+2002	2228	7613266179886163	RegistrationProj.exe	552ce00da8b2d003
+419	2078	7613151335107956	CMakeFiles/RegistrationProj.dir/detection.cpp.obj	8e8e6e6952517395
+12	718	7618410672150549	RegistrationProj_autogen/timestamp	58a8182e40150273
+12	718	7618410672150549	RegistrationProj_autogen/mocs_compilation.cpp	58a8182e40150273
+12	718	7618410672150549	D:/QTPro/RegistrationProj2025/RegistrationProj/build/Desktop_Qt_5_15_18_MSVC2019_64bit-Debug/RegistrationProj_autogen/timestamp	58a8182e40150273
+12	718	7618410672150549	D:/QTPro/RegistrationProj2025/RegistrationProj/build/Desktop_Qt_5_15_18_MSVC2019_64bit-Debug/RegistrationProj_autogen/mocs_compilation.cpp	58a8182e40150273
+728	2788	7618410693168957	CMakeFiles/RegistrationProj.dir/detection.cpp.obj	8e8e6e6952517395
+723	2927	7618410694492992	CMakeFiles/RegistrationProj.dir/main.cpp.obj	3c20e4f2b65f8b10
+719	2928	7618410694592054	CMakeFiles/RegistrationProj.dir/RegistrationProj_autogen/mocs_compilation.cpp.obj	d0e0f56edb2e135e
+726	3081	7618410696091796	CMakeFiles/RegistrationProj.dir/mainwindow.cpp.obj	320a9d794bcfc28f
+3081	4742	7618410706289054	RegistrationProj.exe	552ce00da8b2d003
